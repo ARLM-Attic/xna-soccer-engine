@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Fonts\Small.spritefont</Source>
+      <Name>Fonts\Small</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\tuim\Meus documentos\Visual Studio 2008\Projects\SoccerEngine\bin\x86\Debug\Content\Fonts\Small.xnb</Output>
+      <Time>2011-04-05T19:53:25.796875-03:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Documents and Settings\tuim\Meus documentos\Visual Studio 2008\Projects\SoccerEngine\Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Documents and Settings\tuim\Meus documentos\Visual Studio 2008\Projects\SoccerEngine\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Documents and Settings\tuim\Meus documentos\Visual Studio 2008\Projects\SoccerEngine\Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Documents and Settings\tuim\Meus documentos\Visual Studio 2008\Projects\SoccerEngine\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Arquivos de programas\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2009-05-27T23:16:14-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Arquivos de programas\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2009-05-27T23:16:06-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Arquivos de programas\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2009-05-27T23:16:16-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Arquivos de programas\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2009-05-27T23:16:26-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Arquivos de programas\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2009-05-27T23:16:12-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Arquivos de programas\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2009-05-27T23:16:06-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\3.1.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2010-12-18T22:58:38.34375-02:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

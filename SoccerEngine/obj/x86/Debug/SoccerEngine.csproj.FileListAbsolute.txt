@@ -1,0 +1,9 @@
+C:\Documents and Settings\tuim\Meus documentos\Visual Studio 2008\Projects\SoccerEngine\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\tuim\Meus documentos\Visual Studio 2008\Projects\SoccerEngine\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\tuim\Meus documentos\Visual Studio 2008\Projects\SoccerEngine\bin\x86\Debug\SoccerEngine.exe
+C:\Documents and Settings\tuim\Meus documentos\Visual Studio 2008\Projects\SoccerEngine\bin\x86\Debug\SoccerEngine.pdb
+C:\Documents and Settings\tuim\Meus documentos\Visual Studio 2008\Projects\SoccerEngine\bin\x86\Debug\Core.pdb
+C:\Documents and Settings\tuim\Meus documentos\Visual Studio 2008\Projects\SoccerEngine\obj\x86\Debug\SoccerEngine.exe
+C:\Documents and Settings\tuim\Meus documentos\Visual Studio 2008\Projects\SoccerEngine\obj\x86\Debug\SoccerEngine.pdb
+C:\Documents and Settings\tuim\Meus documentos\Visual Studio 2008\Projects\SoccerEngine\bin\x86\Debug\Core.dll
+C:\Documents and Settings\tuim\Meus documentos\Visual Studio 2008\Projects\SoccerEngine\bin\x86\Debug\Content\Fonts\Small.xnb
